@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    width: calc(100% - 80px);  
 }
 .bg{
     background-image: url("img/bgimage.jpg"); 
@@ -204,7 +205,9 @@
         height: 200px;
         align-items: center;
         justify-content: center;  
+    width: calc(100% - 80px);  
 }
+
 .wildfire{
     background-image: url("img/wildfire.jpg");
     min-height: 500px; 
@@ -216,6 +219,8 @@
     height: 200px;
     align-items: center;
     justify-content: center;  
+    width: calc(100% - 80px);  
+
 }
 .flood{
     background-image: url("img/flood.jpg");
@@ -227,7 +232,9 @@
     display: flex; 
     height: 200px;
     align-items: center;
-    justify-content: center;  
+    justify-content: center; 
+    width: calc(100% - 80px);  
+
 }
 .hurricane{
     background-image: url("img/hurricane.jpg");
@@ -240,6 +247,7 @@
     height: 200px;
     align-items: center;
     justify-content: center;  
+    width: calc(100% - 80px);  
 }
 .eq-p{
     background-image:url(img/bjp.jpg);
@@ -250,6 +258,7 @@
     padding-top:0px;
     color: white;
     
+    width: calc(100% - 80px);  
 }
 
 .eq-p .heading{
