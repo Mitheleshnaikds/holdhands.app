@@ -191,6 +191,7 @@
   background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover; 
+  width: calc(100% - 80px);  
 }
 .eq{
         background-image: url("img/earthquake.jpg");
