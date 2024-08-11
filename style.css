@@ -3,6 +3,7 @@
     margin: 0;
     max-width:1000px;
 }
+body{min-width: 1024px;}
 .bg{
     background-image: url("img/bgimage.jpg"); 
   height: 768px;
